@@ -1,0 +1,8 @@
+group: org.sil.kestra.plugin.netsuite
+name: "netsuite"
+title: "NetSuite"
+description: "Query and update Oracle NetSuite with SuiteQL and the REST record API, using Token-Based Auth."
+body: ""
+videos: []
+createdBy: "SIL"
+managedBy: "SIL"
